@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridView导出到excel和word", "WindowsFormsApp1\DataGridView导出到excel和word.csproj", "{29283448-2903-48B0-B5A7-60A258D89BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29283448-2903-48B0-B5A7-60A258D89BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29283448-2903-48B0-B5A7-60A258D89BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29283448-2903-48B0-B5A7-60A258D89BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29283448-2903-48B0-B5A7-60A258D89BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A7AA08-F285-409C-9BD3-11DB51D3EFD7}
+	EndGlobalSection
+EndGlobal
